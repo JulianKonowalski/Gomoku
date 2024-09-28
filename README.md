@@ -3,10 +3,10 @@ Gomoku is a game resembling tic-tac-toe but on a larger, 15x15 board. The player
 
 # Game
 
-## Before you play
+### Before you play
 The program interface is in Polish. After launching the program make sure to **maximize the console window** and **press ENTER**, otherwise the graphical contents **won't display correctly**.
 
-## App's interface
+### App's interface
 After launching the app you'll be taken to a main menu screen. Here you can choose 3 options:
 * wyjdz (exit)
 * zasady (rules)
@@ -37,5 +37,5 @@ After the game ends, there's a message on the screen:
 
 After pressing any key on the keyboard, you'll be taken back to the main menu.
 
-## Exiting the program
+### Exiting the program
 To exit the program, when in main menu type in `wyjdz`. The program will display a goodbye message. After pressing any key the program will officialy end, closing the console window.
